@@ -300,5 +300,9 @@
     {
         "id": "pm1",
         "name": "PM Fresh Facility, Broadmeadows"
+    },
+    {
+        "id": "ca1",
+        "name": "Catch.com Distribution Centre"
     }
 ]
