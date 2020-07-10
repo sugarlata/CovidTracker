@@ -1,0 +1,304 @@
+[
+    {
+        "id": "i",
+        "name": "Investigation"
+    },
+    {
+        "id": "r",
+        "name": "Returned Traveller"
+    },
+    {
+        "id": "c",
+        "name": "Community Transmission"
+    },
+    {
+        "id": "p1",
+        "name": "Private Residential Service"
+    },
+    {
+        "id": "c1",
+        "name": "Cedar Meats"
+    },
+    {
+        "id": "ro",
+        "name": "Routine Testing"
+    },
+    {
+        "id": "g1",
+        "name": "Grant Lodge, Bacchus Marsh"
+    },
+    {
+        "id": "m1",
+        "name": "McDonalds Fawkner"
+    },
+    {
+        "id": "cc",
+        "name": "Close Contacts of Known Cases"
+    },
+    {
+        "id": "v1",
+        "name": "Villa Maria Aged Care, Bundoora"
+    },
+    {
+        "id": "s1",
+        "name": "Sunshine Hospital, Sunshine"
+    },
+    {
+        "id": "c2",
+        "name": "Lynden Aged Care Facility, Camberwell"
+    },
+    {
+        "id": "k1",
+        "name": "Kyabram District Health Service"
+    },
+    {
+        "id": "c3",
+        "name": "Construction Site at a School in South East Melbourne"
+    },
+    {
+        "id": "h1",
+        "name": "HammondCare Aged Care Facility, Caulfield"
+    },
+    {
+        "id": "r1",
+        "name": "Rydges on Swanston, Melbourne"
+    },
+    {
+        "id": "k2",
+        "name": "Keilor Downs College, Keilor Downs",
+        "from": "k3"
+    },
+    {
+        "id": "k3",
+        "name": "Keilor Downs Family Outbreak (Late May)"
+    },
+    {
+        "id": "e1",
+        "name": "Embracia Aged Care, Reservoir"
+    },
+    {
+        "id": "m2",
+        "name": "Macleod Preschool, Macleod"
+    },
+    {
+        "id": "c4",
+        "name": "Newbury Primary School, Cragieburn"
+    },
+    {
+        "id": "ne",
+        "name": "Hawthorn Village, Bright"
+    },
+    {
+        "id": "s2",
+        "name": "Scope Disability Services, Chelsea"
+    },
+    {
+        "id": "blm",
+        "name": "Black Lives Matter Protest"
+    },
+    {
+        "id": "c5",
+        "name": "BUPA Aged Care, Clayton"
+    },
+    {
+        "id": "p2",
+        "name": "Professor Lyn Corcoran Early Learning Centre, Parkville"
+    },
+    {
+        "id": "k4",
+        "name": "Kangaroo Group Pre-School, Kangaroo Ground"
+    },
+    {
+        "id": "cf1",
+        "name": "Croydon Family Practice, Croydon (GP Cluster)"
+    },
+    {
+        "id": "nse",
+        "name": "North / South East Family Cluster (14th June)"
+    },
+    {
+        "id": "m3",
+        "name": "Monash Health"
+    },
+    {
+        "id": "r2",
+        "name": "Rosstown Community Aged Care Facility, Carnegie"
+    },
+    {
+        "id": "st1",
+        "name": "Stamford Plaza Hotel",
+        "from": "nse"
+    },
+    {
+        "id": "su1",
+        "name": "Sunbury Animal Hospital"
+    },
+    {
+        "id": "gl1",
+        "name": "Inspira Early Learning Centre, Gladstone Park"
+    },
+    {
+        "id": "hm1",
+        "name": "H & M Store, Northland (North Melbourne Family Cluster)"
+    },
+    {
+        "id": "lc1",
+        "name": "Learning Sanctuary Pakenham"
+    },
+    {
+        "id": "gc1",
+        "name": "Guardian Childcare Centre, South Yarra"
+    },
+    {
+        "id": "vr1",
+        "name": "Victorian Rehabilitation Centre, Glen Waverley"
+    },
+    {
+        "id": "k5",
+        "name": "Keilor Downs Family Outbreak (Mid June)"
+    },
+    {
+        "id": "al1",
+        "name": "Albanvale Primary School, Albanvale",
+        "from": "k5"
+    },
+    {
+        "id": "sp1",
+        "name": "Springside Primary School, Caroline Springs"
+    },
+    {
+        "id": "cg1",
+        "name": "Camberwell Grammer, Camberwell"
+    },
+    {
+        "id": "cb1",
+        "name": "Coburg Family Outbreak (20th June)"
+    },
+    {
+        "id": "st2",
+        "name": "St Mary's Primary School Hampton"
+    },
+    {
+        "id": "es1",
+        "name": "Essendon Football Club"
+    },
+    {
+        "id": "gh1",
+        "name": "Grill'd Highpoint"
+    },
+    {
+        "id": "gb1",
+        "name": "Great Beginnings Child Care, Reservoir"
+    },
+    {
+        "id": "be1",
+        "name": "Brunswick East Primary School, Brunswick East"
+    },
+    {
+        "id": "kv1",
+        "name": "Keilor View Primary School",
+        "from": "k5"
+    },
+    {
+        "id": "cd1",
+        "name": "Coles Distribution, Laverton",
+        "from": "k5"
+    },
+    {
+        "id": "mf1",
+        "name": "Maribyrnong Family Outbreak (23rd June)"
+    },
+    {
+        "id": "hd1",
+        "name": "Hampstead Dental, Maidstone"
+    },
+    {
+        "id": "sm1",
+        "name": "St Monica's College, Epping (Wollert Outbreak)"
+    },
+    {
+        "id": "br1",
+        "name": "Brimbank Family Outbreak (25th June)",
+        "from": "hm1"
+    },
+    {
+        "id": "sp2",
+        "name": "Smartie Pants Early Learning Centre, Dimaond Creek"
+    },
+    {
+        "id": "gs2",
+        "name": "Good Start Early Learning, Box Hill"
+    },
+    {
+        "id": "oy1",
+        "name": "Orygen Youth Health Facility, Footscray"
+    },
+    {
+        "id": "tr1",
+        "name": "Truganina Family Outbreak (29th June)"
+    },
+    {
+        "id": "pl1",
+        "name": "Patterson Lakes / Lysterfield Family Outbreak (29th June)"
+    },
+    {
+        "id": "st4",
+        "name": "StarTrack, Tullamarine"
+    },
+    {
+        "id": "hb1",
+        "name": "Hugo Boss, Collins St, Melbourne"
+    },
+    {
+        "id": "al3",
+        "name": "Al-Taqwa College, Truganina"
+    },
+    {
+        "id": "ss1",
+        "name": "Springside Primary School"
+    },
+    {
+        "id": "vb1",
+        "name": "Villa Bambini, Essendon"
+    },
+    {
+        "id": "rb3",
+        "name": "Roxburgh Park Family Outbreak"
+    },
+    {
+        "id": "nm2",
+        "name": "North Melbourne Public Housing Apartments"
+    },
+    {
+        "id": "nh1",
+        "name": "Northern Hospital Emergency Department"
+    },
+    {
+        "id": "dp1",
+        "name": "Deer Park Gathering"
+    },
+    {
+        "id": "op1",
+        "name": "Optus Head Office"
+    },
+    {
+        "id": "av1",
+        "name": "Ascot Vale Primary School"
+    },
+    {
+        "id": "ah1",
+        "name": "Aitken Hill Primary School, Craigieburn"
+    },
+    {
+        "id": "ff1",
+        "name": "Fawkner Family Outbreak"
+    },
+    {
+        "id": "sw1",
+        "name": "Sunshine West Family Outbreak"
+    },
+    {
+        "id": "pm1",
+        "name": "PM Fresh Facility, Broadmeadows"
+    }
+]

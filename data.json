@@ -1,0 +1,2044 @@
+[
+    {
+        "date": "2020-05-01",
+        "increase": 3,
+        "clusters": [
+            {
+                "id": "p1",
+                "new": 4
+            }
+        ]
+    },
+    {
+        "date": "2020-05-02",
+        "increase": 7,
+        "clusters": [
+            {
+                "id": "c1",
+                "new": 8
+            },
+            {
+                "id": "c",
+                "new": 1,
+                "total": 141
+            }
+        ]
+    },
+    {
+        "date": "2020-05-03",
+        "increase": 13,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 142
+            },
+            {
+                "id": "c1",
+                "new": 6,
+                "total": 15
+            },
+            {
+                "id": "i",
+                "new": 3
+            }
+        ]
+    },
+    {
+        "date": "2020-05-04",
+        "increase": 22,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 143
+            },
+            {
+                "id": "c1",
+                "new": 19,
+                "total": 34
+            },
+            {
+                "id": "r",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-05-05",
+        "increase": 17,
+        "clusters": [
+            {
+                "id": "c1",
+                "new": 11,
+                "total": 45
+            },
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 4
+            }
+        ]
+    },
+    {
+        "date": "2020-05-06",
+        "increase": 17,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 2,
+                "total": 145
+            },
+            {
+                "id": "c1",
+                "new": 4,
+                "total": 49
+            },
+            {
+                "id": "g1",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-05-07",
+        "increase": 14,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 8,
+                "total": 153
+            },
+            {
+                "id": "c1",
+                "new": 13,
+                "total": 62
+            }
+        ]
+    },
+    {
+        "date": "2020-05-08",
+        "increase": 13,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 5,
+                "total": 158
+            },
+            {
+                "id": "c1",
+                "new": 8,
+                "total": 71
+            },
+            {
+                "id": "ro",
+                "new": 4
+            }
+        ]
+    },
+    {
+        "date": "2020-05-09",
+        "increase": 10,
+        "clusters": [
+            {
+                "id": "c",
+                "new": -1,
+                "total": 157
+            },
+            {
+                "id": "m1",
+                "new": 1,
+                "total": 2
+            },
+            {
+                "id": "c1",
+                "new": 4,
+                "total": 75
+            }
+        ]
+    },
+    {
+        "date": "2020-05-10",
+        "increase": 10,
+        "clusters": [
+            {
+                "id": "c1",
+                "new": 1,
+                "total": 76
+            }
+        ]
+    },
+    {
+        "date": "2020-05-11",
+        "increase": 7,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 4,
+                "total": 161
+            },
+            {
+                "id": "r",
+                "new": 4
+            },
+            {
+                "id": "i",
+                "new": 2
+            },
+            {
+                "id": "c1",
+                "new": 1,
+                "total": 77
+            }
+        ]
+    },
+    {
+        "date": "2020-05-12",
+        "increase": 17,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 3,
+                "total": 164
+            },
+            {
+                "id": "c1",
+                "new": 8,
+                "total": 85
+            },
+            {
+                "id": "m1",
+                "new": 3
+            },
+            {
+                "id": "i",
+                "new": 3
+            }
+        ]
+    },
+    {
+        "date": "2020-05-13",
+        "increase": 7,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 2
+            },
+            {
+                "id": "m1",
+                "new": 3,
+                "total": 6
+            },
+            {
+                "id": "c1",
+                "new": 3,
+                "total": 87
+            }
+        ]
+    },
+    {
+        "date": "2020-05-14",
+        "increase": 9,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 3
+            },
+            {
+                "id": "m1",
+                "new": 2,
+                "total": 8
+            },
+            {
+                "id": "c1",
+                "new": 3,
+                "total": 90
+            }
+        ]
+    },
+    {
+        "date": "2020-05-15",
+        "increase": 20,
+        "clusters": [
+            {
+                "id": "c",
+                "new": -10,
+                "total": 154
+            },
+            {
+                "id": "r",
+                "new": 6
+            },
+            {
+                "id": "cc",
+                "new": 3
+            },
+            {
+                "id": "m1",
+                "new": 2,
+                "total": 10
+            },
+            {
+                "id": "c1",
+                "new": 1,
+                "total": 91
+            }
+        ]
+    },
+    {
+        "date": "2020-05-16",
+        "increase": 11,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 4,
+                "total": 158
+            },
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "c1",
+                "new": 2,
+                "total": 98
+            },
+            {
+                "id": "m1",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 7
+            }
+
+        ]
+    },
+    {
+        "date": "2020-05-17",
+        "increase": 7,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 2,
+                "total": 160
+            },
+            {
+                "id": "c1",
+                "new": 2,
+                "total": 99
+            },
+            {
+                "id": "r",
+                "new": 3
+            },
+            {
+                "id": "i",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-05-18",
+        "increase": 8,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 161
+            },
+            {
+                "id": "v1",
+                "new": 1
+            },
+            {
+                "id": "m1",
+                "new": 1,
+                "total": 12
+            },
+            {
+                "id": "s1",
+                "new": 1,
+                "total": 3
+            },
+            {
+                "id": "r",
+                "new": 3
+            },
+            {
+                "id": "c1",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-05-19",
+        "increase": 7,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 4,
+                "total": 165
+            },
+            {
+                "id": "c2",
+                "new": 1
+            },
+            {
+                "id": "c1",
+                "new": 1,
+                "total": 102
+            },
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 3
+            }
+        ]
+    },
+    {
+        "date": "2020-05-20",
+        "increase": 8,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 166
+            },
+            {
+                "id": "c1",
+                "new": 1,
+                "total": 103
+            },
+            {
+                "id": "k1",
+                "new": 2
+            },
+            {
+                "id": "c3",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-05-21",
+        "increase": 4,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 2,
+                "total": 168
+            },
+            {
+                "id": "c1",
+                "new": 3,
+                "total": 106
+            },
+            {
+                "id": "i",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-05-22",
+        "increase": 12,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 3,
+                "total": 171
+            },
+            {
+                "id": "c1",
+                "new": 5,
+                "total": 111
+            },
+            {
+                "id": "r",
+                "new": 4
+            },
+            {
+                "id": "i",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-05-23",
+        "increase": 10,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 4
+            },
+            {
+                "id": "ro",
+                "new": 3
+            },
+            {
+                "id": "i",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-05-24",
+        "increase": 2,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 9,
+                "total": 180
+            }
+        ]
+    },
+    {
+        "date": "2020-05-25",
+        "increase": 2,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-05-26",
+        "increase": 5,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 2,
+                "total": 182
+            },
+            {
+                "id": "r",
+                "new": 3
+            },
+            {
+                "id": "ro",
+                "new": 1
+            },
+            {
+                "id": "h1",
+                "new": 1,
+                "total": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-05-27",
+        "increase": 8,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 183
+            },
+            {
+                "id": "c2",
+                "new": 2,
+                "total": 3
+            },
+            {
+                "id": "r1",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 3
+            },
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-05-28",
+        "increase": 10,
+        "clusters": [
+            {
+                "id": "c",
+                "new": -18,
+                "total": 165
+            },
+            {
+                "id": "r1",
+                "new": 1
+            },
+            {
+                "id": "r",
+                "new": 3
+            },
+            {
+                "id": "cc",
+                "new": 6
+            }
+        ]
+    },
+    {
+        "date": "2020-05-29",
+        "increase": 7,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 166
+            },
+            {
+                "id": "k2",
+                "new": 2
+            },
+            {
+                "id": "r",
+                "new": 2
+            },
+            {
+                "id": "ro",
+                "new": 2
+            },
+            {
+                "id": "i",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-05-30",
+        "increase": 11,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 2,
+                "total": 168
+            },
+            {
+                "id": "k3",
+                "new": 3,
+                "total": 11
+            },
+            {
+                "id": "r1",
+                "new": 4,
+                "total": 6
+            },
+            {
+                "id": "r",
+                "new": 2
+            },
+            {
+                "id": "i",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-05-31",
+        "increase": 6,
+        "clusters": [
+            {
+                "id": "k3",
+                "new": 2,
+                "total": 13
+            },
+            {
+                "id": "r1",
+                "new": 1,
+                "total": 7
+            },
+            {
+                "id": "r",
+                "new": 3
+            },
+            {
+                "id": "ro",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-06-01",
+        "increase":  4,
+        "clusters": [
+            {
+                "id": "r1",
+                "new": 1,
+                "total": 8
+            },
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-06-02",
+        "increase": 10,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 169
+            },
+            {
+                "id": "r1",
+                "new": 4,
+                "total": 12
+            },
+            {
+                "id": "e1",
+                "new": 1
+            },
+            {
+                "id": "m2",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 4
+            }
+        ]
+    },
+    {
+        "date": "2020-06-03",
+        "increase": 7,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 7,
+                "total": 176
+            },
+            {
+                "id": "r",
+                "new": 6
+            },
+            {
+                "id": "i",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-06-04",
+        "increase": 8,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 177
+            },
+            {
+                "id": "r",
+                "new": 6
+            },
+            {
+                "id": "r1",
+                "new": 1,
+                "total": 12
+            },
+            {
+                "id": "i",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-06-05",
+        "increase": 3,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 1,
+                "total": 178
+            },
+            {
+                "id": "c4",
+                "new": 1
+            },
+            {
+                "id": "r",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-06-06",
+        "increase": 0,
+        "clusters": [
+
+        ]
+    },
+    {
+        "date": "2020-06-07",
+        "increase": 4,
+        "clusters": [
+            {
+                "id": "c",
+                "new": -1,
+                "total": 177
+            },
+            {
+                "id": "m1",
+                "new": 1
+            },
+            {
+                "id": "r",
+                "new": 3
+            }
+        ]
+    },
+    {
+        "date": "2020-06-08",
+        "increase": 2,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "ne",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-06-09",
+        "increase": 0,
+        "clusters": [
+
+        ]
+    },
+    {
+        "date": "2020-06-10",
+        "increase": 4,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 2,
+                "total": 179
+            },
+            {
+                "id": "r1",
+                "new": 1,
+                "total": 14
+            },
+            {
+                "id": "s2",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-06-11",
+        "increase": 8,
+        "clusters": [
+            {
+                "id": "blm",
+                "new": 1
+            },
+            {
+                "id": "r1",
+                "new": 1,
+                "total": 15
+            },
+            {
+                "id": "c5",
+                "new": 1
+            },
+            {
+                "id": "p2",
+                "new": 1
+            },
+            {
+                "id": "r",
+                "new": 2
+            },
+            {
+                "id": "i",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-06-12",
+        "increase": 4,
+        "clusters": [
+            {
+                "id": "k4",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 1
+            },
+            {
+                "id": "r",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-06-13",
+        "increase": 8,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 3,
+                "total": 182
+            },
+            {
+                "id": "cf1",
+                "new": 1
+            },
+            {
+                "id": "r",
+                "new": 6
+            },
+            {
+                "id": "r1",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-06-14",
+        "increase": 9,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 2,
+                "total": 184
+            },
+            {
+                "id": "r",
+                "new": 3
+            },
+            {
+                "id": "blm",
+                "new": 1
+            },
+            {
+                "id": "cf1",
+                "new": 2,
+                "total": 4
+            },
+            {
+                "id": "nse",
+                "new": 3
+            }
+        ]
+    },
+    {
+        "date": "2020-06-15",
+        "increase": 12,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 1
+            },
+            {
+                "id": "m3",
+                "new": 2,
+                "total": 3
+            },
+            {
+                "id": "nse",
+                "new": 7,
+                "total": 11
+            }
+        ]
+    },
+    {
+        "date": "2020-06-16",
+        "increase": 9,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 2
+            },
+            {
+                "id": "ro",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 2
+            },
+            {
+                "id": "m3",
+                "new": 2
+            },
+            {
+                "id": "nse",
+                "new": 1,
+                "total": 12
+            },
+            {
+                "id": "gl1",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-06-17",
+        "increase": 21,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 15
+            },
+            {
+                "id": "c",
+                "new": 6,
+                "total": 190
+            },
+            {
+                "id": "r2",
+                "new": 1
+            },
+            {
+                "id": "st1",
+                "new": 1
+            },
+            {
+                "id": "su1",
+                "new": 1
+            },
+            {
+                "id": "m3",
+                "new": 1,
+                "total": "7"
+            },
+            {
+                "id": "ro",
+                "new": 2
+            }
+        ]
+    },
+    {
+        "date": "2020-06-18",
+        "increase": 18,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 2,
+                "total": 192
+            },
+            {
+                "id": "cf1",
+                "new": 1,
+                "total": 5
+            },
+            {
+                "id": "hm1",
+                "new": 1
+            },
+            {
+                "id": "lc1",
+                "new": 1
+            },
+            {
+                "id": "gc1",
+                "new": 1
+            },
+            {
+                "id": "vr1",
+                "new": 1
+            },
+            {
+                "id": "r",
+                "new": 6
+            },
+            {
+                "id": "i",
+                "new": 3
+            },
+            {
+                "id": "r",
+                "new": 4
+            }
+        ]
+    },
+    {
+        "date": "2020-06-19",
+        "increase": 13,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 3
+            },
+            {
+                "id": "i",
+                "new": 1
+            },
+            {
+                "id": "c",
+                "new": 1,
+                "total": 193
+            },
+            {
+                "id": "k5",
+                "new": 2
+            },
+            {
+                "id": "st1",
+                "new": 5
+            },
+            {
+                "id": "r1",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-06-20",
+        "increase": 25,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 7,
+                "total": 200
+            },
+            {
+                "id": "ro",
+                "new": 6
+            },
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 4
+            },
+            {
+                "id": "al1",
+                "new": 1
+            },
+            {
+                "id": "sp1",
+                "new": 1
+            },
+            {
+                "id": "cg1",
+                "new": 1
+            },
+            {
+                "id": "k5",
+                "new": 7,
+                "total": 10
+            },
+            {
+                "id": "st1",
+                "new": 3,
+                "total": 10
+            },
+            {
+                "id": "hm1",
+                "new": 1,
+                "total": 2
+            },
+            {
+                "id": "cb1",
+                "new": 1,
+                "total": 14
+            }
+        ]
+    },
+    {
+        "date": "2020-06-21",
+        "increase": 19,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 4
+            },
+            {
+                "id": "i",
+                "new": 8
+            },
+            {
+                "id": "c",
+                "new": 10,
+                "total": 210
+            },
+            {
+                "id": "st1",
+                "new": 3,
+                "total": 12
+            },
+            {
+                "id": "st2",
+                "new": 1
+            },
+            {
+                "id": "cb1",
+                "new": 1
+            },
+            {
+                "id": "es1",
+                "new": 1
+            },
+            {
+                "id": "gh1",
+                "new": 1
+            }
+        ]
+    },
+    {
+        "date": "2020-06-22",
+        "increase": 16,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 12,
+                "total": 222
+            },
+            {
+                "id": "r",
+                "new": 4
+            },
+            {
+                "id": "i",
+                "new": 1
+            },
+            {
+                "id": "st1",
+                "new": 2,
+                "total": 14
+            },
+            {
+                "id": "hm1",
+                "new": 2,
+                "total": 4
+            },
+            {
+                "id": "al1",
+                "new": 2
+            },
+            {
+                "id": "gb1",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 4
+            }
+        ]
+    },
+    {
+        "date": "2020-06-23",
+        "increase": 17,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 8
+            },
+            {
+                "id": "c",
+                "new": 11,
+                "total": 233
+            },
+            {
+                "id": "be1",
+                "new": 1
+            },
+            {
+                "id": "kv1",
+                "new": 1
+            },
+            {
+                "id": "cd1",
+                "new": 1
+            },
+            {
+                "id": "mf1",
+                "new": 5
+            }
+        ]
+    },
+    {
+        "date": "2020-06-24",
+        "increase": 20,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "c",
+                "new": 11,
+                "total": 241
+            },
+            {
+                "id": "hd1",
+                "new": 2,
+                "total": 3
+            },
+            {
+                "id": "k5",
+                "new": 3,
+                "total": 15
+            },
+            {
+                "id": "hm1",
+                "new": 1,
+                "total": 5
+            },
+            {
+                "id": "sm1",
+                "new": 1,
+                "total": 2
+            },
+            {
+                "id": "i",
+                "new": 3
+            },
+            {
+                "id": "ro",
+                "new": 9
+            }
+        ]
+    },
+    {
+        "date": "2020-06-25",
+        "increase": 33,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 10
+            },
+            {
+                "id": "c",
+                "new": -1,
+                "total": 240
+            },
+            {
+                "id": "br1",
+                "new": 5
+            },
+            {
+                "id": "hm1",
+                "new": 2,
+                "total": 10
+            },
+            {
+                "id": "k5",
+                "new": 2,
+                "total": 19
+            },
+            {
+                "id": "sm1",
+                "new": 2,
+                "total": 5
+            },
+            {
+                "id": "st1",
+                "new": 1,
+                "total": 16
+            },
+            {
+                "id": "ro",
+                "new": 8
+            },
+            {
+                "id": "i",
+                "new": 3
+            }
+        ]
+    },
+    {
+        "date": "2020-06-26",
+        "increase": 30,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 5
+            },
+            {
+                "id": "c",
+                "new": 5,
+                "total": 245
+            },
+            {
+                "id": "sm1",
+                "new": 3,
+                "total": 8
+            },
+            {
+                "id": "hm1",
+                "new": 3,
+                "total": 15
+            },
+            {
+                "id": "cb1",
+                "new": 1,
+                "total": 15
+            },
+            {
+                "id": "sp2",
+                "new": 1
+            },
+            {
+                "id": "gs2",
+                "new": 1
+            },
+            {
+                "id": "oy1",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 2
+            },
+            {
+                "id": "i",
+                "new": 13
+            }
+        ]
+    },
+    {
+        "date": "2020-06-27",
+        "increase": 41,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "c",
+                "new": 15,
+                "total": 260
+            },
+            {
+                "id": "st1",
+                "new": 1
+            },
+            {
+                "id": "hm1",
+                "new": 2
+            },
+            {
+                "id": "sm1",
+                "new": 2
+            },
+            {
+                "id": "al1",
+                "new": 2
+            },
+            {
+                "id": "cd1",
+                "new": 1
+            },
+            {
+                "id": "ro",
+                "new": 13
+            },
+            {
+                "id": "i",
+                "new": 19
+            }
+        ]
+    },
+    {
+        "date": "2020-06-28",
+        "increase": 49,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 5,
+                "total": 265
+            },
+            {
+                "id": "hm1",
+                "new": 1,
+                "total": 21
+            },
+            {
+                "id": "st1",
+                "new": 1,
+                "total": 19
+            },
+            {
+                "id": "br1",
+                "new": 1,
+                "total": 6
+            },
+            {
+                "id": "cd1",
+                "new": 1,
+                "total": 4
+            },
+            {
+                "id": "ro",
+                "new": 13
+            },
+            {
+                "id": "i",
+                "new": 19
+            }
+        ]
+    },
+    {
+        "date": "2020-06-29",
+        "increase": 75,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "c",
+                "new": 6,
+                "total": 271
+            },
+            {
+                "id": "hm1",
+                "new": 1,
+                "total": 22
+            },
+            {
+                "id": "br1",
+                "new": 3,
+                "total": 9
+            },
+            {
+                "id": "st1",
+                "new": 3,
+                "total": 23
+            },
+            {
+                "id": "tr1",
+                "new": 3,
+                "total": 5
+            },
+            {
+                "id": "sm1",
+                "new": 1,
+                "total": 10
+            },
+            {
+                "id": "pl1",
+                "new": 3,
+                "total": 4
+            },
+            {
+                "id": "ro",
+                "new": 37
+            },
+            {
+                "id": "i",
+                "new": 23
+            }
+        ]
+    },
+    {
+        "date": "2020-06-30",
+        "increase": 64,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 10,
+                "total": 281
+            },
+            {
+                "id": "st1",
+                "new": 6,
+                "total": 29
+            },
+            {
+                "id": "al1",
+                "new": 2,
+                "total": 7
+            },
+            {
+                "id": "cd1",
+                "new": 1,
+                "total": 5
+            },
+            {
+                "id": "st4",
+                "new": 2
+            },
+            {
+                "id": "hb1",
+                "new": 2,
+                "total": 3
+            },
+            {
+                "id": "oy1",
+                "new": 1
+            },
+            {
+                "id": "al3",
+                "new": 2
+            },
+            {
+                "id": "cg1",
+                "new": 2
+            },
+            {
+                "id": "ro",
+                "new": 15
+            },
+            {
+                "id": "i",
+                "new": 31
+            }
+        ]
+    },
+    {
+        "date": "2020-07-01",
+        "increase": 73,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 3
+            },
+            {
+                "id": "c",
+                "new": 20,
+                "total": 301
+            },
+            {
+                "id": "al3",
+                "new": 5,
+                "total": 8
+            },
+            {
+                "id": "st1",
+                "new": 2,
+                "total": 31
+            },
+            {
+                "id": "hm1",
+                "new": 1,
+                "total": 30
+            },
+            {
+                "id": "cd1",
+                "new": 1,
+                "total": 6
+            },
+            {
+                "id": "hb1",
+                "new": 3
+            },
+            {
+                "id": "ro",
+                "new": 16
+            },
+            {
+                "id": "i",
+                "new": 42
+            }
+        ]
+    },
+    {
+        "date": "2020-07-02",
+        "increase": 77,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 31,
+                "total": 332
+            },
+            {
+                "id": "al3",
+                "new": 2,
+                "total": 15
+            },
+            {
+                "id": "al1",
+                "new": 5,
+                "total": 14
+            },
+            {
+                "id": "st1",
+                "new": 1,
+                "total": 32
+            },
+            {
+                "id": "sm1",
+                "new": 1,
+                "total": 15
+            },
+            {
+                "id": "ss1",
+                "new": 1,
+                "total": 3
+            },
+            {
+                "id": "pl1",
+                "new": 1,
+                "total": 10
+            },
+            {
+                "id": "vb1",
+                "new": 1,
+                "total": 2
+            },
+            {
+                "id": "rb3",
+                "new": 1,
+                "total": 20
+            },
+            {
+                "id": "ro",
+                "new": 37
+            },
+            {
+                "id": "i",
+                "new": 27
+            }
+        ]
+    },
+    {
+        "date": "2020-07-03",
+        "increase": 66,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "c",
+                "new": 31,
+                "total": 363
+            },
+            {
+                "id": "rb3",
+                "new": 3,
+                "total": 23
+            },
+            {
+                "id": "al3",
+                "new": 5,
+                "total": 23
+            },
+            {
+                "id": "al1",
+                "new": 1,
+                "total": 15
+            },
+            {
+                "id": "st1",
+                "new": 3,
+                "total": 35
+            },
+            {
+                "id": "oy1",
+                "new": 1,
+                "total": 3
+            },
+            {
+                "id": "vb1",
+                "new": 1,
+                "total": 3
+            },
+            {
+                "id": "nm2",
+                "new": 1,
+                "total": 10
+            },
+            {
+                "id": "nh1",
+                "new": 2
+            },
+            {
+                "id": "ro",
+                "new": 20
+            },
+            {
+                "id": "i",
+                "new": 28
+            }
+        ]
+    },
+    {
+        "date": "2020-07-04",
+        "increase": 108,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 26,
+                "total": 389
+            },
+            {
+                "id": "al3",
+                "new": 3,
+                "total": 33
+            },
+            {
+                "id": "rb1",
+                "new": 2,
+                "total": 28
+            },
+            {
+                "id": "st1",
+                "new": 2,
+                "total": 40
+            },
+            {
+                "id": "dp1",
+                "new": 1,
+                "total": 12
+            },
+            {
+                "id": "nm2",
+                "new": 1,
+                "total": 11
+            },
+            {
+                "id": "sm1",
+                "new": 2,
+                "total": 17
+            },
+            {
+                "id": "op1",
+                "new": 2,
+                "total": 5
+            },
+            {
+                "id": "av1",
+                "new": 1,
+                "total": 2
+            },
+            {
+                "id": "ro",
+                "new": 25
+            },
+            {
+                "id": "i",
+                "new": 69
+            }
+        ]
+    },
+    {
+        "date": "2020-07-05",
+        "increase": 74,
+        "clusters": [
+            {
+                "id": "r",
+                "new": 1
+            },
+            {
+                "id": "c",
+                "new": 12,
+                "total": 401
+            },
+            {
+                "id": "st1",
+                "new": 2,
+                "total": 42
+            },
+            {
+                "id": "tr1",
+                "new": 1,
+                "total": 14
+            },
+            {
+                "id": "al3",
+                "new": 8,
+                "total": 59
+            },
+            {
+                "id": "nm2",
+                "new": 1,
+                "total": 14
+            },
+            {
+                "id": "rb3",
+                "new": 2,
+                "total": 28
+            },
+            {
+                "id": "nh1",
+                "new": 2,
+                "total": 5
+            },
+            {
+                "id": "ro",
+                "new": 4
+            },
+            {
+                "id": "i",
+                "new": 53
+            }
+        ]
+    },
+    {
+        "date": "2020-07-06",
+        "increase": 127,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 15,
+                "total": 416
+            },
+            {
+                "id": "nm2",
+                "new": 16,
+                "total": 53
+            },
+            {
+                "id": "tr1",
+                "new": 1,
+                "total": 16
+            },
+            {
+                "id": "al3",
+                "new": 14,
+                "total": 77
+            },
+            {
+                "id": "pl1",
+                "new": 2,
+                "total": 15
+            },
+            {
+                "id": "cg1",
+                "new": 1,
+                "total": 4
+            },
+            {
+                "id": "ro",
+                "new": 40
+            },
+            {
+                "id": "i",
+                "new": 53
+            }
+        ]
+    },
+    {
+        "date": "2020-07-07",
+        "increase": 191,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 22,
+                "total": 438
+            },
+            {
+                "id": "nm2",
+                "new": 13,
+                "total": 69
+            },
+            {
+                "id": "al3",
+                "new": 12,
+                "total": 90
+            },
+            {
+                "id": "nh1",
+                "new": 4,
+                "total": 9
+            },
+            {
+                "id": "ah1",
+                "new": 1,
+                "total": 10
+            },
+            {
+                "id": "tr1",
+                "new": 2
+            },
+            {
+                "id": "pl1",
+                "new": 2
+            },
+            {
+                "id": "ff1",
+                "new": 2
+            },
+            {
+                "id": "sw1",
+                "new": 1
+            },
+            {
+                "id": "i",
+                "new": 154
+            }
+        ]
+    },
+    {
+        "date": "2020-07-08",
+        "increase": 134,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 18,
+                "total": 456
+            },
+            {
+                "id": "al3",
+                "new": 7,
+                "total": 102
+            },
+            {
+                "id": "nm2",
+                "new": 2,
+                "total": 75
+            },
+            {
+                "id": "st1",
+                "new": 1,
+                "total": 43
+            },
+            {
+                "id": "pm1",
+                "new": 1,
+                "total": 2
+            },
+            {
+                "id": "i",
+                "new": 123
+            }
+        ]
+    }
+]
