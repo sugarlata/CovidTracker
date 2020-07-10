@@ -5,6 +5,8 @@ import datetime
 import numpy as np
 import matplotlib.pyplot as plt
 
+exclusion_list = ['c', 'i', 'ro', 'r']
+
 # Grab data
 with open('data.json') as f:
     data = json.load(f)
@@ -42,7 +44,7 @@ for i in range(0, len(ob_map)):
 
     mini_y_list = []
     for outbreak_date in outbreak_days_sorted:
-        clust_dict = {c['id']: c for c in outbreak_days[outbreak_date]['clusters'] if c['id'] not in ['c', 'i', 'ro']}
+        clust_dict = {c['id']: c for c in outbreak_days[outbreak_date]['clusters'] if c['id'] not in exclusion_list}
         
         total = clust_dict.get(ob_id, {}).get('total', None)
 
@@ -67,7 +69,7 @@ for i in range(0, len(ob_map)):
 # Your x and y axis
 
 # Basic stacked area chart.
-plt.stackplot(x_list,y_list) #, labels=y_list_labels)
-# plt.legend(loc='upper left')
+plt.stackplot(x_list,y_list, labels=[y for y in y_list_labels if y not in exclusion_list])
+plt.legend(loc='upper left')
 plt.show()
  
