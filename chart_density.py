@@ -5,8 +5,8 @@ import datetime
 import numpy as np
 import matplotlib.pyplot as plt
 
-# exclusion_list = ['c', 'i', 'ro', 'r']
-exclusion_list = ['c', 'i']
+exclusion_list = ['c', 'i', 'ro', 'r']
+# exclusion_list = ['c', 'i']
 
 # Grab data
 with open('data.json') as f:

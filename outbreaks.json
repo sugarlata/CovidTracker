@@ -332,6 +332,58 @@
     {
         "id": "il",
         "name": "Ilim College"
+    },
+    {
+        "id": "ca2",
+        "name": "Carlton Public Housing"
+    },
+    {
+        "id": "le1",
+        "name": "LaManna Supermarket, Essendon"
+    },
+    {
+        "id": "li2",
+        "name": "Linfox Distribution Centre, Truganina"
+    },
+    {
+        "id": "bh1",
+        "name": "Box Hill Hospital, Box Hill"
+    },
+    {
+        "id": "bh2",
+        "name": "Brunswick Private Hospital, Brunswick"
+    },
+    {
+        "id": "al2",
+        "name": "Alfred Hospital"
+    },
+    {
+        "id": "ja1",
+        "name": "Japara Central Park Aged Care, Werribee"
+    },
+    {
+        "id": "es2",
+        "name": "Estia Health - Aged Care Facility, Ardeer"
+    },
+    {
+        "id": "gf1",
+        "name": "Goodman Fielder, West Footscray"
+    },
+    {
+        "id": "",
+        "name": ""
+    },
+    {
+        "id": "",
+        "name": ""
+    },
+    {
+        "id": "",
+        "name": ""
+    },
+    {
+        "id": "",
+        "name": ""
     }
     
 ]
