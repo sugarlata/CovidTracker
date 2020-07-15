@@ -5,7 +5,8 @@ import datetime
 import numpy as np
 import matplotlib.pyplot as plt
 
-exclusion_list = ['c', 'i', 'ro', 'r']
+# exclusion_list = ['c', 'i', 'ro', 'r']
+exclusion_list = ['c', 'i']
 
 # Grab data
 with open('data.json') as f:
@@ -70,6 +71,6 @@ for i in range(0, len(ob_map)):
 
 # Basic stacked area chart.
 plt.stackplot(x_list,y_list, labels=[y for y in y_list_labels if y not in exclusion_list])
-plt.legend(loc='upper left')
+# plt.legend(loc='upper left')
 plt.show()
  

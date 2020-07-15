@@ -304,5 +304,34 @@
     {
         "id": "ca1",
         "name": "Catch.com Distribution Centre"
+    },
+    {
+        "id": "sm5",
+        "name": "Somerville Meats Retail Services, Tottenham"
+    },
+    {
+        "id": "cc1",
+        "name": "Cenvic Construction Riverina Apartments, Footscray"
+    },
+    {
+        "id": "jb3",
+        "name": "JBS Australia Abattoir, Brooklyn"
+    },
+    {
+        "id": "me1",
+        "name": "Menarock Aged Care, Essendon"
+    },
+    {
+        "id": "ga3",
+        "name": "Glendale Aged Care Facility, Werribee"
+    },
+    {
+        "id": "dm2",
+        "name": "Debney Meadows Primary School"
+    },
+    {
+        "id": "il",
+        "name": "Ilim College"
     }
+    
 ]

@@ -2080,5 +2080,79 @@
                 "new": 138
             }
         ]
-    }    
+    },
+    {
+        "date": "2020-07-10",
+        "increase": 288,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 32,
+                "total": 509
+            },
+            {
+                "id": "ro",
+                "new": 26
+            },
+            {
+                "id": "i",
+                "new": 262
+            }
+        ]
+    },
+    {
+        "date": "2020-07-11",
+        "increase": 216,
+        "clusters": [
+            {
+                "id": "c",
+                "new": 26,
+                "total": 535
+            },
+            {
+                "id": "nm2",
+                "total": 138
+            },
+            {
+                "id": "al3",
+                "total": 134
+            },
+            {
+                "id": "sm5",
+                "total": 3
+            },
+            {
+                "id": "cc1",
+                "total": 4
+            },
+            {
+                "id": "jb3",
+                "total": 2
+            },
+            {
+                "id": "ca1",
+                "total": 7
+            },
+            {
+                "id": "pm1",
+                "total": 3
+            },
+            {
+                "id": "me1",
+                "total": 10
+            },
+            {
+                "id": "ga3",
+                "total": 7
+            },
+            {
+                "id": "dm2",
+                "total": 5
+            },
+            {
+                "id": "il",
+                "total": 3
+            }
+        ]
+    }   
 ]
